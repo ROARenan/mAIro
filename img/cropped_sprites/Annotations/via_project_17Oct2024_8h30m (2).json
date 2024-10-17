@@ -1,0 +1,1974 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "__via_region_id__",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": { "buffer_size": 18, "filepath": {}, "default_filepath": "" },
+        "project": { "name": "via_project_17Oct2024_8h30m" }
+    },
+    "_via_img_metadata": {
+        "marinho_0.png545": {
+            "filename": "marinho_0.png",
+            "size": 545,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 16,
+                        "width": 16,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_1.png544": {
+            "filename": "marinho_1.png",
+            "size": 544,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 15,
+                        "width": 16,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Action": "LookUp",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_2.png469": {
+            "filename": "marinho_2.png",
+            "size": 469,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 23,
+                        "width": 18,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "Action": "Duck",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_3.png563": {
+            "filename": "marinho_3.png",
+            "size": 563,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_4.png563": {
+            "filename": "marinho_4.png",
+            "size": 563,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 19,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_5.png553": {
+            "filename": "marinho_5.png",
+            "size": 553,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "marinho_6.png573": {
+            "filename": "marinho_6.png",
+            "size": 573,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 20,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Run",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_7.png575": {
+            "filename": "marinho_7.png",
+            "size": 575,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 14,
+                        "width": 19,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Action": "Run",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_8.png556": {
+            "filename": "marinho_8.png",
+            "size": 556,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 19,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Run",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_9.png623": {
+            "filename": "marinho_9.png",
+            "size": 623,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 21,
+                        "y": 16,
+                        "width": 25,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Action": "WallRun",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_10.png556": {
+            "filename": "marinho_10.png",
+            "size": 556,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 20,
+                        "y": 29,
+                        "width": 27,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Action": "WallRun",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_11.png556": {
+            "filename": "marinho_11.png",
+            "size": 556,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 20,
+                        "y": 29,
+                        "width": 27,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Action": "WallRun",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_12.png543": {
+            "filename": "marinho_12.png",
+            "size": 543,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 21,
+                        "y": 30,
+                        "width": 26,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Action": "WallRun",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_13.png557": {
+            "filename": "marinho_13.png",
+            "size": 557,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 14,
+                        "width": 19,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Skid",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_14.png561": {
+            "filename": "marinho_14.png",
+            "size": 561,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 14,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Pipe",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_15.png603": {
+            "filename": "marinho_15.png",
+            "size": 603,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Jump",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_16.png571": {
+            "filename": "marinho_16.png",
+            "size": 571,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Fall",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_17.png555": {
+            "filename": "marinho_17.png",
+            "size": 555,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "RunJump",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_18.png528": {
+            "filename": "marinho_18.png",
+            "size": 528,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "SpinJump",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_19.png561": {
+            "filename": "marinho_19.png",
+            "size": 561,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 19,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "SpinJump",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_20.png553": {
+            "filename": "marinho_20.png",
+            "size": 553,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "SpinJump",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_21.png517": {
+            "filename": "marinho_21.png",
+            "size": 517,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "SpinJump",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_22.png551": {
+            "filename": "marinho_22.png",
+            "size": 551,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 17,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Slide",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_23.png568": {
+            "filename": "marinho_23.png",
+            "size": 568,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Kick",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_24.png537": {
+            "filename": "marinho_24.png",
+            "size": 537,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_25.png557": {
+            "filename": "marinho_25.png",
+            "size": 557,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 14,
+                        "width": 19,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_26.png558": {
+            "filename": "marinho_26.png",
+            "size": 558,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_27.png603": {
+            "filename": "marinho_27.png",
+            "size": 603,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Victory",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_28.png550": {
+            "filename": "marinho_28.png",
+            "size": 550,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 19,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_29.png532": {
+            "filename": "marinho_29.png",
+            "size": 532,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 15,
+                        "width": 17,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "LookUp",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_30.png498": {
+            "filename": "marinho_30.png",
+            "size": 498,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 22,
+                        "width": 21,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "Action": "Duck",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_31.png548": {
+            "filename": "marinho_31.png",
+            "size": 548,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 14,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_32.png555": {
+            "filename": "marinho_32.png",
+            "size": 555,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 15,
+                        "width": 16,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Action": "Jump",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_33.png553": {
+            "filename": "marinho_33.png",
+            "size": 553,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 17,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_34.png547": {
+            "filename": "marinho_34.png",
+            "size": 547,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 14,
+                        "width": 21,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_35.png558": {
+            "filename": "marinho_35.png",
+            "size": 558,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_36.png572": {
+            "filename": "marinho_36.png",
+            "size": 572,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Hold",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_37.png546": {
+            "filename": "marinho_37.png",
+            "size": 546,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 15,
+                        "width": 17,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Yoshi",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_38.png551": {
+            "filename": "marinho_38.png",
+            "size": 551,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Eat",
+                        "Status": "Yoshi",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_39.png519": {
+            "filename": "marinho_39.png",
+            "size": 519,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Eat",
+                        "Status": "Yoshi",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_40.png579": {
+            "filename": "marinho_40.png",
+            "size": 579,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "marinho_41.png546": {
+            "filename": "marinho_41.png",
+            "size": 546,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "marinho_42.png586": {
+            "filename": "marinho_42.png",
+            "size": 586,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "marinho_43.png573": {
+            "filename": "marinho_43.png",
+            "size": 573,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "marinho_44.png551": {
+            "filename": "marinho_44.png",
+            "size": 551,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_45.png576": {
+            "filename": "marinho_45.png",
+            "size": 576,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 17,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_46.png529": {
+            "filename": "marinho_46.png",
+            "size": 529,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 15,
+                        "width": 17,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_47.png557": {
+            "filename": "marinho_47.png",
+            "size": 557,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 14,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_48.png546": {
+            "filename": "marinho_48.png",
+            "size": 546,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_49.png498": {
+            "filename": "marinho_49.png",
+            "size": 498,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_50.png550": {
+            "filename": "marinho_50.png",
+            "size": 550,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 18,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_51.png592": {
+            "filename": "marinho_51.png",
+            "size": 592,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 14,
+                        "width": 18,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_52.png575": {
+            "filename": "marinho_52.png",
+            "size": 575,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 15,
+                        "width": 17,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Climbing",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "marinho_53.png597": {
+            "filename": "marinho_53.png",
+            "size": 597,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 15,
+                        "width": 17,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Normal",
+                        "PowerUp": "Small"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_0.png704": {
+            "filename": "mario_0.png",
+            "size": 704,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 17,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_1.png674": {
+            "filename": "mario_1.png",
+            "size": 674,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 8,
+                        "width": 17,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Action": "LookUp",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_2.png558": {
+            "filename": "mario_2.png",
+            "size": 558,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 23,
+                        "width": 18,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "Action": "Duck",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_3.png775": {
+            "filename": "mario_3.png",
+            "size": 775,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 17,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_4.png770": {
+            "filename": "mario_4.png",
+            "size": 770,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 19,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_5.png702": {
+            "filename": "mario_5.png",
+            "size": 702,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 17,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_6.png787": {
+            "filename": "mario_6.png",
+            "size": 787,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 22,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Action": "Run",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_7.png784": {
+            "filename": "mario_7.png",
+            "size": 784,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 21,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Run",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_8.png747": {
+            "filename": "mario_8.png",
+            "size": 747,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 24,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Run",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_9.png727": {
+            "filename": "mario_9.png",
+            "size": 727,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 13,
+                        "y": 7,
+                        "width": 22,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Pipe",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_10.png807": {
+            "filename": "mario_10.png",
+            "size": 807,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 19,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Jump",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_11.png756": {
+            "filename": "mario_11.png",
+            "size": 756,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 18,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Action": "Fall",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_12.png787": {
+            "filename": "mario_12.png",
+            "size": 787,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 7,
+                        "width": 25,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "RunJump",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_13.png699": {
+            "filename": "mario_13.png",
+            "size": 699,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "mario_14.png718": {
+            "filename": "mario_14.png",
+            "size": 718,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "mario_15.png702": {
+            "filename": "mario_15.png",
+            "size": 702,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "mario_16.png647": {
+            "filename": "mario_16.png",
+            "size": 647,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "mario_17.png688": {
+            "filename": "mario_17.png",
+            "size": 688,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 19,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Slide",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_18.png731": {
+            "filename": "mario_18.png",
+            "size": 731,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 19,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Kick",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_19.png719": {
+            "filename": "mario_19.png",
+            "size": 719,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 24,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_20.png780": {
+            "filename": "mario_20.png",
+            "size": 780,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 8,
+                        "width": 27,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_21.png762": {
+            "filename": "mario_21.png",
+            "size": 762,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 25,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_22.png717": {
+            "filename": "mario_22.png",
+            "size": 717,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 19,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Victory",
+                        "Status": "Normal",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_23.png692": {
+            "filename": "mario_23.png",
+            "size": 692,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 19,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_24.png666": {
+            "filename": "mario_24.png",
+            "size": 666,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 19,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "LookUp",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_25.png649": {
+            "filename": "mario_25.png",
+            "size": 649,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 13,
+                        "y": 14,
+                        "width": 22,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Action": "Duck",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_26.png700": {
+            "filename": "mario_26.png",
+            "size": 700,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 7,
+                        "width": 21,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_27.png738": {
+            "filename": "mario_27.png",
+            "size": 738,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 7,
+                        "width": 20,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_28.png689": {
+            "filename": "mario_28.png",
+            "size": 689,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 8,
+                        "width": 19,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Walk",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_29.png718": {
+            "filename": "mario_29.png",
+            "size": 718,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 7,
+                        "width": 27,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_30.png758": {
+            "filename": "mario_30.png",
+            "size": 758,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 7,
+                        "width": 28,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_31.png751": {
+            "filename": "mario_31.png",
+            "size": 751,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 8,
+                        "width": 27,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Swim",
+                        "Status": "Hold",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_32.png729": {
+            "filename": "mario_32.png",
+            "size": 729,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 7,
+                        "width": 21,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Yoshi",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_33.png713": {
+            "filename": "mario_33.png",
+            "size": 713,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 9,
+                        "width": 19,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Action": "Eat",
+                        "Status": "Yoshi",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_34.png788": {
+            "filename": "mario_34.png",
+            "size": 788,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 5,
+                        "y": 6,
+                        "width": 35,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Action": "Eat",
+                        "Status": "Yoshi",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_35.png755": {
+            "filename": "mario_35.png",
+            "size": 755,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "mario_36.png748": {
+            "filename": "mario_36.png",
+            "size": 748,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 7,
+                        "width": 20,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Action": "Idle",
+                        "Status": "Yoshi",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_37.png669": {
+            "filename": "mario_37.png",
+            "size": 669,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 13,
+                        "y": 11,
+                        "width": 22,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Action": "Pipe",
+                        "Status": "Yoshi",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "mario_38.png736": {
+            "filename": "mario_38.png",
+            "size": 736,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 14,
+                        "y": 7,
+                        "width": 22,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Action": "Victory",
+                        "Status": "Yoshi",
+                        "PowerUp": "Super"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Action": {
+                "type": "dropdown",
+                "description": "The action Mario is performing at this moment",
+                "options": {
+                    "Idle": "",
+                    "Run": "",
+                    "Walk": "",
+                    "Duck": "",
+                    "LookUp": "",
+                    "WallRun": "",
+                    "Skid": "",
+                    "Jump": "",
+                    "Pipe": "",
+                    "Fall": "",
+                    "RunJump": "",
+                    "SpinJump": "",
+                    "Slide": "",
+                    "Kick": "",
+                    "Swim": "",
+                    "Victory": "",
+                    "Eat": ""
+                },
+                "default_options": { "Idle": true }
+            },
+            "Status": {
+                "type": "dropdown",
+                "description": "Mario's sprite status",
+                "options": {
+                    "Hold": "",
+                    "Climbing": "",
+                    "Yoshi": "",
+                    "Normal": "",
+                    "Special": ""
+                },
+                "default_options": { "Normal": true }
+            },
+            "PowerUp": {
+                "type": "dropdown",
+                "description": "Mario's activated power up",
+                "options": { "Small": "", "Super": "", "Caped": "" },
+                "default_options": { "Super": true }
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "marinho_0.png545",
+        "marinho_1.png544",
+        "marinho_2.png469",
+        "marinho_3.png563",
+        "marinho_4.png563",
+        "marinho_5.png553",
+        "marinho_6.png573",
+        "marinho_7.png575",
+        "marinho_8.png556",
+        "marinho_9.png623",
+        "marinho_10.png556",
+        "marinho_11.png556",
+        "marinho_12.png543",
+        "marinho_13.png557",
+        "marinho_14.png561",
+        "marinho_15.png603",
+        "marinho_16.png571",
+        "marinho_17.png555",
+        "marinho_18.png528",
+        "marinho_19.png561",
+        "marinho_20.png553",
+        "marinho_21.png517",
+        "marinho_22.png551",
+        "marinho_23.png568",
+        "marinho_24.png537",
+        "marinho_25.png557",
+        "marinho_26.png558",
+        "marinho_27.png603",
+        "marinho_28.png550",
+        "marinho_29.png532",
+        "marinho_30.png498",
+        "marinho_31.png548",
+        "marinho_32.png555",
+        "marinho_33.png553",
+        "marinho_34.png547",
+        "marinho_35.png558",
+        "marinho_36.png572",
+        "marinho_37.png546",
+        "marinho_38.png551",
+        "marinho_39.png519",
+        "marinho_40.png579",
+        "marinho_41.png546",
+        "marinho_42.png586",
+        "marinho_43.png573",
+        "marinho_44.png551",
+        "marinho_45.png576",
+        "marinho_46.png529",
+        "marinho_47.png557",
+        "marinho_48.png546",
+        "marinho_49.png498",
+        "marinho_50.png550",
+        "marinho_51.png592",
+        "marinho_52.png575",
+        "marinho_53.png597",
+        "mario_0.png704",
+        "mario_1.png674",
+        "mario_2.png558",
+        "mario_3.png775",
+        "mario_4.png770",
+        "mario_5.png702",
+        "mario_6.png787",
+        "mario_7.png784",
+        "mario_8.png747",
+        "mario_9.png727",
+        "mario_10.png807",
+        "mario_11.png756",
+        "mario_12.png787",
+        "mario_13.png699",
+        "mario_14.png718",
+        "mario_15.png702",
+        "mario_16.png647",
+        "mario_17.png688",
+        "mario_18.png731",
+        "mario_19.png719",
+        "mario_20.png780",
+        "mario_21.png762",
+        "mario_22.png717",
+        "mario_23.png692",
+        "mario_24.png666",
+        "mario_25.png649",
+        "mario_26.png700",
+        "mario_27.png738",
+        "mario_28.png689",
+        "mario_29.png718",
+        "mario_30.png758",
+        "mario_31.png751",
+        "mario_32.png729",
+        "mario_33.png713",
+        "mario_34.png788",
+        "mario_35.png755",
+        "mario_36.png748",
+        "mario_37.png669",
+        "mario_38.png736"
+    ]
+}
