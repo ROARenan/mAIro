@@ -4,7 +4,7 @@ import os
 
 # Caminho para o arquivo de anotações e para a imagem que deseja exibir
 annotations_path = './img/game_prints/game_print_annotations_via.json'
-image_path = './img/game_prints/scene00786.png'
+image_path = './img/game_prints/scene02046.png'
 
 # Carregar a imagem
 image = cv.imread(image_path)
@@ -29,7 +29,7 @@ if image_name in annotations:
         cv.rectangle(image, (x, y), (x + width, y + height), (255, 0, 0), 1)
 
     # Exibir a imagem com os retângulos desenhados
-    cv.imshow("Imagem com Anotações", image)
+    cv.imshow("Imagem com Anotas", image)
     cv.waitKey(0)  # Aguardar tecla para fechar
     cv.destroyAllWindows()
 
